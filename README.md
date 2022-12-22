@@ -1,4 +1,4 @@
-# Data-Visualization-and-Clustering
+# Data Visualization and Clustering
 
 This repository contains a tool for visualizing and analyzing large or complex data sets. The tool is implemented in Python and makes use of the Pandas and Matplotlib libraries.
 
