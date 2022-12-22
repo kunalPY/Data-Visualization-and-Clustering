@@ -17,7 +17,9 @@ This repository contains a tool for visualizing and analyzing large or complex d
 4. Run the `analyze_data` function to visualize and analyze the data.
 
 ## Example
+```python
 analyze_data("data.csv")
+```
 
 ## Contributions
 
